@@ -1,0 +1,1 @@
+Project about recipes, meant to be practice git commands and the basic workflow
